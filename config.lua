@@ -176,7 +176,7 @@ lvim.plugins = {
   },
   {
     "catppuccin/nvim",
-    as = "catppuccin",
+    name = "catppuccin",
   }
 }
 
